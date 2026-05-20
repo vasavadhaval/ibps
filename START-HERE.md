@@ -1,39 +1,41 @@
 # START HERE
 
-You asked for a plan you can **follow without thinking**. It is ready.
+## Today (20 May 2026)
 
-## Step 1 (right now)
+1. Open folder **`2026-05-20/`**
+2. Open **`00-TODAY-PLAN.md`**
+3. Follow every file in order until done
 
-Open this file and complete it:
+**No books. No YouTube. Only files in that folder.**
 
-**[`daily/2026-05-20.md`](./daily/2026-05-20.md)**
+---
 
-## Step 2 (every day after)
+## Every day
 
-1. Open `daily/YYYY-MM-DD.md` for **today's date**
-2. Check off tasks as you finish
-3. Do not add new resources
-
-## Reference (read once)
-
-| File | When |
+| Step | What |
 |------|------|
-| [HOW-TO-USE.md](./HOW-TO-USE.md) | Rules for daily execution |
-| [ROADMAP.md](./ROADMAP.md) | Full roadmap and book list |
-| [daily/INDEX.md](./daily/INDEX.md) | All 102 days listed |
+| 1 | Open folder `YYYY-MM-DD/` (today's date) |
+| 2 | Read `00-TODAY-PLAN.md` |
+| 3 | Complete all subject `.md` files |
+| 4 | Mark checkboxes in `00-TODAY-PLAN.md` |
 
-## What you have
+Optional: also tick boxes in `daily/YYYY-MM-DD.md` (short tracker).
 
-- **102 daily TODO files** (20 May 2026 to 29 Aug 2026 - Prelims day)
-- **3 phases:** Foundations -> Speed/Mocks -> Exam mode
-- **Every day:** Quant + Reasoning + English + IT (Professional Knowledge)
-- **Weekends:** Extra mocks and analysis (built into those dates)
+---
 
-## Commitment
+## Folder map
 
-> You do not plan. You do not browse. You open today's file and finish the checkboxes.
+```
+IBPS/
+  2026-05-20/          ← today's lessons + questions
+    00-TODAY-PLAN.md   ← start here
+    01-quant-....md
+    02-reasoning-....md
+    ...
+  daily/               ← short daily checklist only
+  ROADMAP.md           ← big picture
+```
 
-**Prelims:** 29 August 2026  
-**After result:** Mains daily files will be added for Professional Knowledge intensive prep.
+---
 
-Good luck. Start Day 001 now.
+**Open now:** [`2026-05-20/00-TODAY-PLAN.md`](./2026-05-20/00-TODAY-PLAN.md)

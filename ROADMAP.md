@@ -9,36 +9,28 @@
 
 ## How this plan works (read once)
 
-1. Open **today’s file** in `daily/` (e.g. `2026-05-20.md`).
-2. Complete every checkbox. Do not hunt for extra videos or books.
-3. Mark tasks `[x]` when done.
-4. **No planning, no collecting resources** — only execute.
+1. Open **today’s dated folder** (e.g. `2026-05-20/`).
+2. Start with **`00-TODAY-PLAN.md`** inside that folder.
+3. Complete every file in order. **No outside books or videos.**
+4. Mark tasks `[x]` when done.
 
-**Daily folder:** `daily/YYYY-MM-DD.md`  
+**Daily schedule:** `daily/YYYY-MM-DD.md` (points to the resource folder)  
+**Daily study content:** `YYYY-MM-DD/*.md` (lessons + questions + answers)  
 **Index:** `daily/INDEX.md`
 
 ---
 
-## Fixed resources (already decided for you)
+## Resources (built for you)
 
-Buy or borrow **once** (optional if you use free PDFs online):
+All lessons, practice questions, and answers are **created in dated folders** — one folder per day.
 
-| Subject | Resource |
-|---------|----------|
-| Quant | *Fast Track Objective Arithmetic* — Arihant (or any banking Quant PDF) |
-| English | *Objective General English* — SP Bakshi (Ch 1–12 for grammar) |
-| Reasoning | *Verbal & Non-Verbal Reasoning* — RS Aggarwal (selected chapters) OR Adda247 Reasoning PDF |
-| Professional Knowledge | Your MCA notes + any *IT Officer* PK compendium (Oliveboard/Adda247 free PDF) |
+| What | Where |
+|------|--------|
+| Today’s lessons | `2026-05-20/` |
+| Today’s checklist | `2026-05-20/00-TODAY-PLAN.md` |
+| Error Log setup | `2026-05-20/05-error-log-setup.md` |
 
-**Free video (when a day says “Watch”):** Use **Banking Wallah** or **Study IQ Banking** on YouTube — search the **exact topic name** given in that day’s TODO (no browsing).
-
-**Mocks (free):** Oliveboard / ixamBee / Adda247 free mock tests for **IBPS SO** or **IBPS PO Prelims** (same pattern: English + Reasoning + Quant).
-
-**One-time setup (Day 1 only):**
-
-- [ ] Notebook: **Error Log** (date | subject | question type | mistake)
-- [ ] Download **2 IBPS SO Prelims** previous papers (PDF)
-- [ ] Phone timer app for sectional timing
+**One-time setup (Day 1):** Error Log notebook — instructions inside `05-error-log-setup.md`.
 
 ---
 
