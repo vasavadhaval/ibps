@@ -1,41 +1,33 @@
 # START HERE
 
-## Today (20 May 2026)
+## આજ (20 મે 2026)
 
-1. Open folder **`2026-05-20/`**
-2. Open **`00-TODAY-PLAN.md`**
-3. Follow every file in order until done
+1. ફોલ્ડર **`2026-05-20/`** ખોલો  
+2. **`00-TODAY-PLAN.md`** ખોલો (**ગુજરાતી** સૂચના)  
+3. ફાઇલો ક્રમમાં પૂર્ણ કરો — સામગ્રી **હિંદી** (English વિભાગ સિવાય)
 
-**No books. No YouTube. Only files in that folder.**
-
----
-
-## Every day
-
-| Step | What |
-|------|------|
-| 1 | Open folder `YYYY-MM-DD/` (today's date) |
-| 2 | Read `00-TODAY-PLAN.md` |
-| 3 | Complete all subject `.md` files |
-| 4 | Mark checkboxes in `00-TODAY-PLAN.md` |
-
-Optional: also tick boxes in `daily/YYYY-MM-DD.md` (short tracker).
+**કોઈ પુસ્તક / YouTube નહીં.**
 
 ---
 
-## Folder map
+## ભાષા
 
-```
-IBPS/
-  2026-05-20/          ← today's lessons + questions
-    00-TODAY-PLAN.md   ← start here
-    01-quant-....md
-    02-reasoning-....md
-    ...
-  daily/               ← short daily checklist only
-  ROADMAP.md           ← big picture
-```
+| શું | ભાષા |
+|-----|--------|
+| સૂચના | **ગુજરાતી** |
+| Quant, Reasoning, PK | **હિંદી** |
+| English section | **અંગ્રેજી** |
+
+[LANGUAGE.md](./LANGUAGE.md)
 
 ---
 
-**Open now:** [`2026-05-20/00-TODAY-PLAN.md`](./2026-05-20/00-TODAY-PLAN.md)
+## દરરોજ
+
+1. `YYYY-MM-DD/` ફોલ્ડર  
+2. `00-TODAY-PLAN.md` (ગુજરાતી)  
+3. વિષય `.md` ફાઇલો (હિંદી / English)
+
+---
+
+**હમણાં ખોલો:** [`2026-05-20/00-TODAY-PLAN.md`](./2026-05-20/00-TODAY-PLAN.md)

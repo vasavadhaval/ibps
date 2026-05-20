@@ -1,6 +1,8 @@
 # English — Nouns & Articles + Error Spotting (Day 1)
 
-**Time:** 30 min · **Part A:** 15 min read · **Part B:** 15 questions · **Part C:** answers
+> **સૂચના (Gujarati):** IBPS માં **English Language વિભાગ ફક્ત અંગ્રેજી**માં હોય છે — Hindi/Gujarati વિકલ્પ નથી. Reasoning/Quant તમે **હિંદી**માં પરીક્ષા આપો; આ ફાઇલ **અંગ્રેજી અભ્યાસ** માટે છે.
+
+**સામગ્રી (Content):** English · **સમય:** 30 min
 
 ---
 

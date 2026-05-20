@@ -1,45 +1,45 @@
-# Day 001 — 20 May 2026 — Your only work today
+# દિવસ 001 — 20 મે 2026 — આજનું કામ
 
-> **Time:** ~3.5 hours · **No books, no YouTube, no outside links**  
-> Use **only** the files in this folder, in order.
+> **સમય:** ~3.5 કલાક · **કોઈ પુસ્તક / YouTube નહીં**  
+> **સૂચના:** **ગુજરાતી** · **સામગ્રી:** Quant / Reasoning / PK = **હિંદી** · English = **અંગ્રેજી**
 
----
-
-## Order of work
-
-| Step | File | Time | What you do |
-|------|------|------|-------------|
-| 0 | [05-error-log-setup.md](./05-error-log-setup.md) | 15 min | Create your Error Log (one-time) |
-| 1 | [01-quant-simplification.md](./01-quant-simplification.md) | 60 min | Read Part A → solve 40 questions (Part B) → check Part C |
-| 2 | [02-reasoning-alphanumeric-series.md](./02-reasoning-alphanumeric-series.md) | 60 min | Read Part A → solve 30 questions (Part B) → check Part C |
-| 3 | [03-english-nouns-articles.md](./03-english-nouns-articles.md) | 30 min | Read Part A → solve 15 questions (Part B) → check Part C |
-| 4 | [04-pk-computer-fundamentals.md](./04-pk-computer-fundamentals.md) | 30 min | Read Part A → write summary → solve 10 MCQs (Part B) → check Part C |
+[ભાષા યોજના](../LANGUAGE.md)
 
 ---
 
-## Today's TODO (check when done)
+## ક્રમ (આ જ order માં)
 
-- [ ] Step 0 — Error Log ready
-- [ ] Step 1 — Quant done; mistakes logged
-- [ ] Step 2 — Reasoning done; mistakes logged
-- [ ] Step 3 — English done; mistakes logged
-- [ ] Step 4 — PK done; summary written; MCQs checked
-
----
-
-## Rules
-
-1. **Do not open** `daily/2026-05-20.md` for study content — it only points here.
-2. **Check answers only after** you attempt a section (Part C in each file).
-3. **Error Log:** every wrong answer → one line (see `05-error-log-setup.md`).
-4. **Timer:** Quant Part B = **20 minutes** for 40 questions (strict).
+| પગલું | ફાઇલ | સમય | શું કરવું |
+|--------|------|------|-----------|
+| 0 | [05-error-log-setup.md](./05-error-log-setup.md) | 15 મિ | Error Log બનાવો |
+| 1 | [01-quant-simplification.md](./01-quant-simplification.md) | 60 મિ | **હિંદી** — ભાગ A → 40 પ્રશ્ન (ભાગ B, **20 મિ ટાઇમર**) → ભાગ C |
+| 2 | [02-reasoning-alphanumeric-series.md](./02-reasoning-alphanumeric-series.md) | 60 મિ | **હિંદી** — ભાગ A → 30 પ્રશ્ન → ભાગ C |
+| 3 | [03-english-nouns-articles.md](./03-english-nouns-articles.md) | 30 મિ | **અંગ્રેજી** — ભાગ A → 15 પ્રશ્ન → ભાગ C |
+| 4 | [04-pk-computer-fundamentals.md](./04-pk-computer-fundamentals.md) | 30 મિ | **હિંદી** — ભાગ A → સારાંશ → 10 MCQ → ભાગ C |
 
 ---
 
-## Done when
+## આજના TODO
 
-- All 5 checkboxes above are `[x]`
-- Error Log has **at least 3 entries**
-- You did **not** use any outside book or video
+- [ ] પગલું 0 — Error Log તૈયાર
+- [ ] પગલું 1 — Quant (હિંદી) + ભૂલો લોગ કરો
+- [ ] પગલું 2 — Reasoning (હિંદી) + ભૂલો લોગ
+- [ ] પગલું 3 — English (અંગ્રેજી) + ભૂલો લોગ
+- [ ] પગલું 4 — PK (હિંદી) + સારાંશ + MCQ
 
-**Tomorrow:** folder `2026-05-21` will be created with new resources + diagnostic practice.
+---
+
+## નિયમ
+
+1. **ભાગ C (ઉત્તર)** પહેલાં જોશો નહીં — પહેલા પ્રયાસ કરો.
+2. Quant ભાગ B = **20 મિનિટ** સખત ટાઇમર.
+3. પરીક્ષા હોલમાં Reasoning/Quant **હિંદી** વાંચી શકો; English વિભાગ **ફક્ત English**.
+
+---
+
+## પૂર્ણ થયું જ્યારે
+
+- ઉપર બધા `[x]` થઈ જાય
+- Error Log માં **ઓછામાં ઓછી 3** ભૂલો લખેલી હોય
+
+**આવતીકાલ:** `2026-05-21/` (સૂચના ગુજરાતી, સામગ્રી હિંદી)

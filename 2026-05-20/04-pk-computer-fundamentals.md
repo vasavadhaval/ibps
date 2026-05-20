@@ -1,195 +1,128 @@
-# Professional Knowledge — Computer Fundamentals (Day 1)
+# Professional Knowledge — कंप्यूटर मूल बातें — दिन 1
 
-**Time:** 30 min · **Part A:** 15 min read · **Summary:** 10 min · **Part B:** 10 MCQs · **Part C:** answers
+> **સૂચના (Gujarati):** સામગ્રી **હિંદી**માં. 10 મિનિટ **તમારા શબ્દોમાં સારાંશ** લખવો જરૂરી.
 
-*This section helps you for **Mains (Professional Knowledge)** and builds IT Officer confidence.*
+**भाषा (सामग्री):** हिंदी · **समय:** 30 मिन
 
 ---
 
-## Part A — Study notes (read carefully)
+## भाग A — पाठ (ध्यान से पढ़ें)
 
-### 1. What is a computer system?
-
-A computer system has **hardware** (physical parts), **software** (programs), and **data** (information processed).
-
-**Block diagram (conceptual):**
+### 1. कंप्यूटर प्रणाली
+**हार्डवेयर** (भौतिक) + **सॉफ़्टवेयर** (प्रोग्राम) + **डेटा** (सूचना)
 
 ```
-Input → Processing (CPU) → Output
-         ↑
-      Memory (RAM / Storage)
+इनपुट → प्रोसेसिंग (CPU) → आउटपुट
+           ↑
+        मेमोरी (RAM / स्टोरेज)
 ```
 
----
+### 2. CPU (केंद्रीय प्रसंस्करण इकाई)
+कंप्यूटर का **दिमाग** — निर्देश चलाता है।
 
-### 2. CPU (Central Processing Unit)
+| इकाई | काम |
+|------|-----|
+| **ALU** | गणित (+, −, ×, ÷) और तर्क (तुलना) |
+| **CU** | नियंत्रण संकेत — सब समन्वय |
+| **रजिस्टर** | CPU के अंदर बहुत तेज़ छोटी मेमोरी |
 
-The **brain** of the computer. It executes instructions.
+**घड़ी गति (GHz)** — प्रति सेकंड चक्र; ज़्यादा आमतौर पर तेज़, पर डिज़ाइन भी मायने रखता है।
 
-| Unit | Role |
-|------|------|
-| **ALU** (Arithmetic Logic Unit) | Maths (+, −, ×, ÷) and logic (AND, OR, compare) |
-| **CU** (Control Unit) | Sends control signals; coordinates all parts |
-| **Registers** | Tiny, ultra-fast storage inside CPU |
+### 3. मेमोरी पदानुक्रम
 
-**Clock speed** (GHz) = how many cycles per second — higher usually means faster, but architecture also matters.
+| प्रकार | गति | आकार | अस्थिर? |
+|--------|-----|------|---------|
+| रजिस्टर | सबसे तेज़ | बाइट | हाँ |
+| कैश (L1,L2,L3) | बहुत तेज़ | KB–MB | हाँ |
+| **RAM** (प्राथमिक) | तेज़ | GB | **हाँ** — बिजली बंद = डेटा गया |
+| **SSD/HDD** (द्वितीयक) | धीमा | GB–TB | **नहीं** — स्थायी |
 
----
+**अस्थिर (volatile)** = बिजली बिना डेटा नहीं (RAM)  
+**ROM** — बूट निर्देश (BIOS/firmware)
 
-### 3. Memory hierarchy (speed vs size)
+### 4. इनपुट / आउटपुट
 
-| Type | Speed | Size | Volatile? |
-|------|-------|------|-----------|
-| **Registers** | Fastest | Bytes | Yes |
-| **Cache** (L1, L2, L3) | Very fast | KB–MB | Yes |
-| **RAM** (Primary memory) | Fast | GB | **Yes** — lost when power off |
-| **SSD / HDD** (Secondary) | Slower | GB–TB | **No** — permanent storage |
+| इनपुट | आउटपुट |
+|--------|---------|
+| कीबोर्ड, माउस, स्कैनर | मॉनिटर, प्रिंटर, स्पीकर |
+| ATM कीपैड | रसीद प्रिंटर |
 
-**Volatile** = data lost without power (RAM).  
-**Non-volatile** = keeps data (disk, ROM).
+**बैंक:** CBS (Core Banking Solution), ATM, डिजिटल बैंकिंग इन्फ्रा।
 
-**ROM** — Read Only Memory; stores **firmware / BIOS** (boot instructions).
+### 5. स्टोरेज
+- **HDD** — सस्ता, चुंबकीय डिस्क  
+- **SSD** — तेज़, फ़्लैश  
+- **क्लाउड** — बैकअप, आपदा पुनर्प्राप्ति (DR)
 
----
+### 6. संख्या प्रणाली
 
-### 4. Input & output devices
+| प्रणाली | आधार |
+|----------|------|
+| द्विआधारी (Binary) | 2 |
+| अष्टाधारी (Octal) | 8 |
+| दशाधारी (Decimal) | 10 |
+| षोडशाधारी (Hex) | 16 |
 
-| Input | Output |
-|-------|--------|
-| Keyboard, mouse, scanner, microphone | Monitor, printer, speaker |
-| Touchscreen (both) | ATM receipt printer |
+1 **बाइट** = 8 **बिट** · 1 KB ≈ 1024 बाइट
 
-**Banking context:** ATM keypad (input), cash dispenser (output), core banking servers process transactions.
-
----
-
-### 5. Storage types (exam favourites)
-
-| Storage | Technology | Use |
-|---------|------------|-----|
-| **HDD** | Magnetic disk, moving parts | Cheap bulk storage |
-| **SSD** | Flash memory, no moving parts | Faster boot, faster apps |
-| **Cloud storage** | Remote servers | Backup, DR (disaster recovery) |
-
----
-
-### 6. Number systems (quick)
-
-| System | Base | Digits used |
-|--------|------|-------------|
-| Binary | 2 | 0, 1 |
-| Octal | 8 | 0–7 |
-| Decimal | 10 | 0–9 |
-| Hexadecimal | 16 | 0–9, A–F |
-
-**Why binary?** Computers use **bits** (0/1) because electronic switches are ON/OFF.
-
-1 byte = 8 bits  
-1 KB ≈ 1024 bytes (2¹⁰) — exams may use 1000; note question wording.
+### 7. बैंक में IT अधिकारी
+- सर्वर, नेटवर्क, ATM, CBS देखभाल  
+- सॉफ़्टवेयर/सुरक्षा अपडेट  
+- डेटा बैकअप, DR योजना  
 
 ---
 
-### 7. IT Officer in a bank (context)
+## आपका काम — आधा पृष्ठ सारांश (10 मिन)
 
-- Maintain **servers, networks, ATMs, CBS** (Core Banking Solution)  
-- **Troubleshoot** hardware/software; patch security updates  
-- Support **digital banking** (UPI, internet banking infrastructure)  
-- **Data backup** and **disaster recovery** planning  
+*नोटबुक में अपने शब्दों में लिखें:*
+1. CPU + ALU क्या करते हैं  
+2. RAM और हार्ड डिस्क में अंतर  
+3. बैंक IT का एक उदाहरण  
 
----
-
-## Your task — half-page summary (10 min)
-
-*Write in your own words (notebook or new file `my-summary-day1.txt`). Cover:*
-
-1. What CPU + ALU do  
-2. Difference between RAM and hard disk  
-3. One banking IT example  
-
-**Checkbox:** [ ] Summary written (minimum 8–10 lines)
+- [ ] सारांश लिखा (कम से कम 8–10 पंक्तियाँ)
 
 ---
 
-## Part B — 10 MCQs
+## भाग B — 10 MCQ
 
-1. Which part of CPU performs arithmetic operations?  
-   - a) Control Unit  
-   - b) ALU  
-   - c) Register  
-   - d) Cache  
+1. CPU में गणित कौन करता है?  
+   a) Control Unit  b) **ALU**  c) Register  d) Cache  
 
-2. RAM is an example of:  
-   - a) Non-volatile memory  
-   - b) Volatile memory  
-   - c) Permanent storage  
-   - d) Optical storage  
+2. RAM है:  
+   a) स्थायी  b) **अस्थिर**  c) Optical  d) केवल ROM  
 
-3. Which is **input** device?  
-   - a) Printer  
-   - b) Monitor  
-   - c) Scanner  
-   - d) Speaker  
+3. **इनपुट** उपकरण:  
+   a) प्रिंटर  b) मॉनिटर  c) **स्कैनर**  d) स्पीकर  
 
-4. 1 byte equals:  
-   - a) 4 bits  
-   - b) 8 bits  
-   - c) 16 bits  
-   - d) 32 bits  
+4. 1 बाइट =  
+   a) 4 बिट  b) **8 बिट**  c) 16  d) 32  
 
-5. BIOS is stored in:  
-   - a) RAM  
-   - b) ROM  
-   - c) Cache  
-   - d) Register  
+5. BIOS कहाँ?  
+   a) RAM  b) **ROM**  c) Cache  d) Register  
 
-6. Fastest memory in hierarchy:  
-   - a) Hard disk  
-   - b) RAM  
-   - c) Cache  
-   - d) DVD  
+6. सबसे तेज़ मेमोरी:  
+   a) HDD  b) RAM  c) **Cache**  d) DVD  
 
-7. SSD compared to HDD is generally:  
-   - a) Slower and cheaper  
-   - b) Faster and often costlier per GB  
-   - c) Same speed  
-   - d) Only used in printers  
+7. SSD बनाम HDD:  
+   a) हमेशा धीमा  b) **आमतौर पर तेज़**  c) समान  d) केवल प्रिंटर  
 
-8. Hexadecimal base is:  
-   - a) 2  
-   - b) 8  
-   - c) 10  
-   - d) 16  
+8. षोडशाधारी आधार:  
+   a) 2  b) 8  c) 10  d) **16**  
 
-9. In a bank, CBS stands for:  
-   - a) Central Backup System  
-   - b) Core Banking Solution  
-   - c) Computer BIOS Setup  
-   - d) Certified Banking Software  
+9. बैंक में CBS =  
+   a) Central Backup  b) **Core Banking Solution**  c) BIOS Setup  d) Certified Software  
 
-10. Control Unit in CPU is responsible for:  
-    - a) Only addition  
-    - b) Coordinating and controlling operations  
-    - c) Storing files permanently  
-    - d) Printing statements  
+10. Control Unit:  
+    a) केवल जोड़  b) **संचालन समन्वय**  c) स्थायी फ़ाइल  d) प्रिंटिंग  
 
 ---
 
-## Part C — Answers
+## भाग C — उत्तर
 
-| Q | Ans | Q | Ans |
-|---|-----|---|-----|
-| 1 | b | 6 | c |
-| 2 | b | 7 | b |
-| 3 | c | 8 | d |
-| 4 | b | 9 | b |
-| 5 | b | 10 | b |
+| प्र | उत्तर |
+|-----|--------|
+| 1–10 | b, b, c, b, b, c, b, d, b, b |
 
-**Score 8/10+** = solid Day 1 PK.
+**8/10+** = अच्छी शुरुआत
 
----
-
-## Day 1 complete
-
-Return to [00-TODAY-PLAN.md](./00-TODAY-PLAN.md) and mark all steps done.
-
-**Tomorrow:** folder `2026-05-21` with Percentage (Quant), Letter series (Reasoning), Tenses (English), Number systems (PK).
+**वापस →** [00-TODAY-PLAN.md](./00-TODAY-PLAN.md)

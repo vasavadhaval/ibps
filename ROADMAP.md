@@ -3,7 +3,8 @@
 **Goal:** Clear IBPS SO IT Officer (Scale-I) — Prelims → Mains → Interview → Job  
 **Start date:** 20 May 2026  
 **Prelims target:** 29 August 2026 (~102 study days)  
-**Your profile:** MCA 2024 · DOB 25-09-2001 · Eligible for IT Officer
+**Your profile:** MCA 2024 · DOB 25-09-2001 · Eligible for IT Officer  
+**Exam language:** **Hindi** (Reasoning, Quant, PK) · **Instructions:** **Gujarati** · **English section:** English only — see [LANGUAGE.md](./LANGUAGE.md)
 
 ---
 

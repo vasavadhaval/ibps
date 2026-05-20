@@ -1,45 +1,47 @@
-# Error Log setup (15 min) — do this first
+# Error Log — સેટઅપ (15 મિનિટ) — પહેલા આ કરો
 
-You will use one notebook for **102 days**. Every mistake goes here — this is how you stop repeating errors.
+> **સૂચના:** ગુજરાતી · **Error Log લખવું:** ગુજરાતી / હિંદી / અંગ્રેજી — જે ઝડપી હોય.
+
+102 દિવસ માટે **એક** નોટબુક. દર ભૂલ અહીં — ફરી પુનરાવર્તન નહીં થાય.
 
 ---
 
-## Create the log
+## લોગ બનાવો
 
-Use **paper notebook** or a **single Google Doc** named: `IBPS Error Log`
+**કાગળની નોટબુક** અથવા Google Doc: `IBPS Error Log`
 
-### Column headers (copy exactly)
+### કૉલમ (કૉપી કરો)
 
 | Date | Subject | Topic | Question # | What went wrong | Fix / rule |
 |------|---------|-------|------------|-----------------|------------|
 
-**Example entry:**
+**ઉદાહરણ:**
 
-| 20-May | Quant | Simplification | Q12 | Forgot cube of 13 | 13³ = 2197 |
-| 20-May | Reasoning | Alt+number | Q3 | Added instead of alternated | Check +/− pattern first |
-
----
-
-## Today's setup tasks
-
-- [ ] Create the notebook / doc
-- [ ] Write on top: **Target: IBPS SO IT Officer | Prelims 29-Aug-2026**
-- [ ] Draw the table once (5 columns minimum)
-- [ ] Keep a **formula page** at the back for Quant (you will add rules daily)
+| 20-May | Quant | Simplification | Q12 | 13નો ઘન ભૂલ્યો | 13³ = 2197 |
+| 20-May | Reasoning | શ્રૃંખલા | Q3 | + બદલે × કર્યું | પહેલા pattern ચેક |
 
 ---
 
-## Rules for the next 102 days
+## આજના કામ
 
-1. **No shame** — silly mistakes still get logged.
-2. **One line per mistake** — do not write essays.
-3. **Review yesterday's log** for 10 min before starting a new day (from Day 2 onward).
-4. Before the real exam, re-read the **top 20 repeated topics** in this log.
+- [ ] નોટબુક / Doc બનાવો
+- [ ] ઉપર લખો: **Target: IBPS SO IT Officer | Prelims 29-Aug-2026**
+- [ ] ટેબલ એક વાર દોરો
+- [ ] પાછળ **ફોર્મ્યુલા પાનું** — Quant માટે (રોજ ઉમેરશો)
 
 ---
 
-## Optional: timer
+## 102 દિવસના નિયમ
 
-- [ ] Set phone timer app (any free app) — you will use **20 min**, **40 min** timers daily.
+1. **છોટી ભૂલ** પણ લખો.
+2. **એક લાઇન** — લાંબું નહીં.
+3. **દરેક નવા દિવસે** ગઈકાલની લોગ 10 મિનિટ વાંચો (દિવસ 2 થી).
+4. પરીક્ષા પહેલાં **વારંવાર ભૂલ** — ટોચ 20 ટોપિક ફરી વાંચો.
 
-**Next file →** [01-quant-simplification.md](./01-quant-simplification.md)
+---
+
+## ટાઇમર (optional)
+
+- [ ] ફોન ટાઇમર — **20 મિ**, **40 મિ** રોજ લાગશે
+
+**આગળ →** [01-quant-simplification.md](./01-quant-simplification.md) *(સામગ્રી **હિંદી**માં)*
