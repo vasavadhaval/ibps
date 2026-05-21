@@ -12,7 +12,8 @@
 | પગલું | ફાઇલ | સમય | શું કરવું |
 |--------|------|------|-----------|
 | 0 | [05-error-log-setup.md](./05-error-log-setup.md) | 15 મિ | Error Log બનાવો |
-| 1 | [01-quant-simplification.md](./01-quant-simplification.md) | 60 મિ | **હિંદી** — ભાગ A → 40 પ્રશ્ન (ભાગ B, **20 મિ ટાઇમર**) → ભાગ C |
+| 0b | [01a-squares-cubes-tricks.md](./01a-squares-cubes-tricks.md) | 20 મિ | **વર્ગ/ઘન ટ્રિક્સ** — લાંબી ટેબલ યાદ નહીં કરવી |
+| 1 | [01-quant-simplification.md](./01-quant-simplification.md) | 60 મિ | **હિંદી** — ભાગ A → 40 પ્રશ્ન (**20 મિ ટાઇમર**) → ભાગ C |
 | 2 | [02-reasoning-alphanumeric-series.md](./02-reasoning-alphanumeric-series.md) | 60 મિ | **હિંદી** — ભાગ A → 30 પ્રશ્ન → ભાગ C |
 | 3 | [03-english-nouns-articles.md](./03-english-nouns-articles.md) | 30 મિ | **અંગ્રેજી** — ભાગ A → 15 પ્રશ્ન → ભાગ C |
 | 4 | [04-pk-computer-fundamentals.md](./04-pk-computer-fundamentals.md) | 30 મિ | **હિંદી** — ભાગ A → સારાંશ → 10 MCQ → ભાગ C |
@@ -22,6 +23,7 @@
 ## આજના TODO
 
 - [ ] પગલું 0 — Error Log તૈયાર
+- [ ] પગલું 0b — વર્ગ/ઘન ટ્રિક્સ (01a) + 10 અભ્યાસ
 - [ ] પગલું 1 — Quant (હિંદી) + ભૂલો લોગ કરો
 - [ ] પગલું 2 — Reasoning (હિંદી) + ભૂલો લોગ
 - [ ] પગલું 3 — English (અંગ્રેજી) + ભૂલો લોગ
